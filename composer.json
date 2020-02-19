@@ -14,6 +14,7 @@
         }
     ],
     "type": "project",
+    "prefer-stable": true,
     "license": "MIT",
     "minimum-stability": "stable",
     "autoload": {
